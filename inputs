@@ -1,0 +1,13 @@
+{
+  "{{ project_name }}.docker": "{{ docker }}",
+  "{{ project_name }}.ref_dir": "{{ ref_dir }}",
+  "{{ project_name }}.fa": "{{ fa }}",
+  "{{ project_name }}.bed": "{{ bed }}",
+  "{{ project_name }}.bam": "{{ bam }}",
+  "{{ project_name }}.bai": "{{ bai }}",
+  "{{ project_name }}.min_mapping_quality": "{{ min_mapping_quality }}",
+  "{{ project_name }}.min_base_quality": "{{ min_base_quality }}",
+  "{{ project_name }}.disk_size": "{{ disk_size }}",
+  "{{ project_name }}.cluster_config": "{{ cluster_config }}",
+  "{{ project_name }}.sample_id": "{{ sample_id }}"
+}

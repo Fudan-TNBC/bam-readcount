@@ -1,0 +1,9 @@
+{
+    "fa": "GRCh38.d1.vd1.fa",
+    "ref_dir": "oss://pgx-reference-data/GRCh38.d1.vd1/",
+    "disk_size": "200",
+    "docker": "registry.cn-shanghai.aliyuncs.com/pgx-docker-registry/bamreadcount:v0.8.0",
+    "cluster_config": "OnDemand bcs.b2.3xlarge img-ubuntu-vpc",
+    "min_base_quality": "0",
+    "min_mapping_quality": "0"
+}
